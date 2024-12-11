@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 About Me
-- 📚 Currently pursuing a **Bachelor of Technology in Computer Science** at **Symbiosis University of Applied Sciences**, Indore.
 - 🔭 Passionate about leveraging technology to solve real-world problems, especially in education, automation, and user experience.
 - 🤖 Enthusiastic about **Artificial Intelligence**, **Machine Learning**, and **Web Development**.
 
